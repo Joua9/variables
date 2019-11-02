@@ -167,7 +167,7 @@ True
 #  ) b = "some thing"
 #  ) a == b
 print (a==b)
-True
+Flase
 #17) a = "word"
 #  ) b = "word"
 #  ) a == b
@@ -184,4 +184,4 @@ False
 #  ) A = False
 #  ) b = False
 #  ) A == b
-False 
+True
